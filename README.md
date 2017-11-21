@@ -1,3 +1,10 @@
+# Elm Pong
+
+Classic pong game implemented with Elm and SVG.
+Live coded at the November 2017 Elm Orlando meetup.
+
+# Create Elm App
+
 This project is bootstrapped with [Create Elm App](https://github.com/halfzebra/create-elm-app).
 
 Below you will find some information on how to perform basic tasks.  
